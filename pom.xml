@@ -9,6 +9,7 @@
     </properties>
 	<packaging>war</packaging>
 	<version>1.0.1-SNAPSHOT</version>
+	<version>1.0.1-RELEASE</version>
 	<name>simple-app</name>
 	<url>http://maven.apache.org</url>
 	
