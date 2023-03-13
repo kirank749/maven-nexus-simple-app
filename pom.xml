@@ -9,7 +9,7 @@
     </properties>
 	<packaging>war</packaging>
 	<version>1.0.1-SNAPSHOT</version>
-	<name>kiran_simple-app</name>
+	<name>kirans_simple-app</name>
 	<url>http://maven.apache.org</url>
 	
 	
